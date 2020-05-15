@@ -1,4 +1,4 @@
-ansible==2.5.3
+ansible==2.6.18
 cffi==1.11.5
 cryptography==2.3
 enum34==1.1.6
